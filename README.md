@@ -13,7 +13,9 @@ A Self-Led, End-To-End Supply Chain Project Developed As Part Of A Practical Dat
 To Uncover Trends, Gaps, And Opportunities Across The Supply Chain Through Clean, Visual, And Actionable Insights — With The Purpose Of Supporting Smarter Planning, Reducing Delays, Optimizing Supplier Performance, And Enhancing Customer Targeting.
 
 
+
 🛠️ Tools & Techniques Used:
+
 
 ✅ SQL – For Extracting Patterns, Filtering Data, And Performing Logical Data Exploration
 
@@ -25,7 +27,9 @@ To Uncover Trends, Gaps, And Opportunities Across The Supply Chain Through Clean
 
 
 
+
 📊 Focus Areas (Dashboards) Included:
+
 
 ✅ Sales Overview Dashboard:
 
@@ -50,6 +54,7 @@ Measured Delivery Timeliness Across Categories, Highlighting Delays Vs. On-Time 
 ✅ Summary Report Dashboard:
 
 Provided A Full Analytical Overview Including Business KPIs, Insights, And Strategic Recommendations To Improve Supply Chain Efficiency And Meet Growth Targets.
+
 
 
 💡 This Project Was More Than Just A Set Of Dashboards — It Was A Comprehensive Business Intelligence Solution.
